@@ -7,6 +7,7 @@ export const GenderPositions = {
   'astronomical entity':  { x: 1,   y: 8 },
   soap:                   { x: 3,   y: 17},
   'boss monster':         { x: 7,   y: 2 },
+  'QuestionMark':         { x: 5,   y: 1 },
 
   'Fighter-blue':         { x: 7,   y: 9 },
   'Fighter-red':          { x: 8,   y: 9 },
